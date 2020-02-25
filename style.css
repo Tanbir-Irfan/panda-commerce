@@ -9,6 +9,7 @@
 .btn{
     background: rgb(206,59,130);
     color: white;
+    border:none;
 }
 .price{
     color:rgb(206,59,130);
@@ -29,4 +30,7 @@
 }
 .cat3{
     background: rgb(73, 87, 248);
+}
+.card{
+    box-shadow: 5px 5px 20px gray;
 }
