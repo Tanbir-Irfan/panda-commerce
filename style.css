@@ -4,6 +4,7 @@
 .slide_bg{
     background: rgb(247, 234, 233);
     padding: 20px 40px;
+    border-radius: 5px;
 }
 .btn{
     background: rgb(206,59,130);
@@ -11,4 +12,21 @@
 }
 .price{
     color:rgb(206,59,130);
+}
+.cat1, .cat2, .cat3{
+    padding: 15px 40px;
+    border-radius: 5px;
+    color: white;
+}
+.cat1 img, .cat2 img, .cat3 img{
+    width:100px;
+}
+.cat1{
+    background: rgb(228, 182, 60);
+}
+.cat2{
+    background: rgb(205, 58, 129);
+}
+.cat3{
+    background: rgb(73, 87, 248);
 }
