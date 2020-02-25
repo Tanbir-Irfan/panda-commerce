@@ -1,0 +1,14 @@
+.container{
+    margin-bottom:40px;
+}
+.slide_bg{
+    background: rgb(247, 234, 233);
+    padding: 20px 40px;
+}
+.btn{
+    background: rgb(206,59,130);
+    color: white;
+}
+.price{
+    color:rgb(206,59,130);
+}
